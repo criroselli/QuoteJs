@@ -6,7 +6,7 @@ return [
     }
   */  
   { 
-    citazione:"Serve un anello per dominarli tutto",
+    citazione:"Serve un anello per dominarli tutti",
     description:"Rifertendosi ad un BUG",
     data: "Thu Jan 16 2014 17:00:05 GMT+0100 (CET)"
   },{ 
