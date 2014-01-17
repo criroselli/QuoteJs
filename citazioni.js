@@ -18,4 +18,9 @@ return [
     description:"Riferendosi al deploy del brick Mailchimp che non funzionava in produzione",
     data: "Thu Jan 16 2014 18:25:35 GMT+0100 (CET)"
   },
+  {
+    citazione:"Non era pronto per andare senza rotelle",
+    description:"email 1200 persone per l'editor",
+    data: "Thu Jan 17 2014 13:35:35 GMT+0100 (CET)"
+  }
 ];
