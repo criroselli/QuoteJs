@@ -20,7 +20,7 @@ return [
   },
   {
     citazione:"Non era pronto per andare senza rotelle",
-    description:"email 1200 persone per l'editor",
+    description:"RIferendosi ad un email inviata a 1200 persone per l'editor",
     data: "Thu Jan 17 2014 13:35:35 GMT+0100 (CET)"
   }
 ];
