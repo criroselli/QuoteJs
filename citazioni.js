@@ -33,5 +33,9 @@ return [
     citazione:"Questa é il principio del fat washing",
     description:"Riferendosi al cioccolato che messo in frigo fa la patina bianca",
     data: "Jan 24 2014 09:13:35 GMT+0100 (CET)"
+  },{
+    citazione:"Così parlo Zaratustra",
+    description:"Riferendosi a Giuliano say di Carlos e SeedCamp company",
+    data: "Jan 24 2014 15:35:35 GMT+0100 (CET)"
   }
 ];
