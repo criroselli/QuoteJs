@@ -41,5 +41,9 @@ return [
     citazione:"Hai mai visto Superman fermarsi davanti a qualcosa??",
     description:"Riferendosi ai permessi di root",
     data: "Jan 24 2014 16:44:35 GMT+0100 (CET)"
+  },{
+    citazione:"Noam Chomsky è uno che ha avuto fortuna nella vita",
+    description:"Riferendosi Noam Chomsky",
+    data: "Jan 24 2014 18:02:35 GMT+0100 (CET)"
   }
 ];
