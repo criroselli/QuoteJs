@@ -37,5 +37,9 @@ return [
     citazione:"Così parlo Zaratustra",
     description:"Riferendosi a Giuliano say di Carlos e SeedCamp company",
     data: "Jan 24 2014 15:35:35 GMT+0100 (CET)"
+  },{
+    citazione:"Hai mai visto Superman fermarsi davanti a qualcosa??",
+    description:"Riferendosi ai permessi di root",
+    data: "Jan 24 2014 16:44:35 GMT+0100 (CET)"
   }
 ];
