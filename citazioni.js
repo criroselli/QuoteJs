@@ -29,5 +29,9 @@ return [
     citazione:"Questa é proprio una cazzata",
     description:"Riferendosi all'ascensore sociale tirato in ballo dal Presidente Giuliano Iacobelli",
     data: "Jan 23 2014 14:38:35 GMT+0100 (CET)"
+  },{
+    citazione:"Questa é tecnica del fat washing",
+    description:"Riferendosi al cioccolato che messo in frigo fa la patina bianca",
+    data: "Jan 24 2014 09:13:35 GMT+0100 (CET)"
   }
 ];
