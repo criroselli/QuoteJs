@@ -45,5 +45,9 @@ return [
     citazione:"Noam Chomsky è uno che ha avuto fortuna nella vita",
     description:"Riferendosi Noam Chomsky",
     data: "Jan 24 2014 18:02:35 GMT+0100 (CET)"
+  },{
+    citazione:"Non fate gli stronzi",
+    description:"Riferendosi all'affermazione 'vedere un numero come un numero'",
+    data: "Jan 30 2014 18:41:35 GMT+0100 (CET)"
   }
 ];
