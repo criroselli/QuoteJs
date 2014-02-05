@@ -51,7 +51,11 @@ return [
     data: "Jan 30 2014 18:41:35 GMT+0100 (CET)"
   },{
     citazione:"Che sei un pesce rosso",
-    description:"Riferendosi a Cristian che non ricordava una cosa detta tre secondi prima'",
-    data: "Fri Jan 31 2014 11:35:47 GMT+0100 (CET)"
-  },
+    description:"Riferendosi a Cristian che non ricordava una cosa detta tre secondi prima",
+    data: "Jan 31 2014 11:35:47 GMT+0100 (CET)"
+  },{
+    citazione:"Senti come sfrullinano ste ventole",
+    description:"Riferendosi alle ventole del mac",
+    data: "Feb 5 2014 16:05:47 GMT+0100 (CET)"
+  }
 ];
