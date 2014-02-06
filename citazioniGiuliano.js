@@ -18,7 +18,7 @@ return [
     description:"Riferendosi a Zzub",
     data: "Feb 06 2014 11:45:05 GMT+0100 (CET)"
   },{ 
-    citazione:"Avas come avas",
+    citazione:"Avas come Lavas",
     description:"Riferendosi alla società Avas ed alla simpatica pubblicità 'ava come lava' ",
     data: "Feb 06 2014 18:06:05 GMT+0100 (CET)"
   }
