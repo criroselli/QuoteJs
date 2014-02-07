@@ -57,5 +57,9 @@ return [
     citazione:"Senti come sfrullinano ste ventole",
     description:"Riferendosi alle ventole del mac",
     data: "Feb 5 2014 16:05:47 GMT+0100 (CET)"
+  },{
+    citazione:"Na botta e un bicchiere d'acqua non se nega a nessuna",
+    description:"Riferendosi al rapporto con le donne",
+    data: "Feb 7 2014 09:25:47 GMT+0100 (CET)"
   }
 ];
