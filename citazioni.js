@@ -61,5 +61,9 @@ return [
     citazione:"Na botta e un bicchiere d'acqua non se nega a nessuna",
     description:"Riferendosi al rapporto con le donne",
     data: "Feb 7 2014 09:25:47 GMT+0100 (CET)"
+  },{
+    citazione:"Da fuori il raccordo è tutto Sud",
+    description:"Riferendosi a città fuori da Roma",
+    data: "Feb 7 2014 12:02:47 GMT+0100 (CET)"
   }
 ];
