@@ -65,5 +65,9 @@ return [
     citazione:"Da fuori il raccordo è tutto Sud",
     description:"Riferendosi a città fuori da Roma",
     data: "Feb 7 2014 12:02:47 GMT+0100 (CET)"
+  },{
+    citazione:"Il pesce puzza dalla testa",
+    description:"Riferendosi a Giuliano, capo progetto",
+    data: "Feb 7 2014 18:02:47 GMT+0100 (CET)"
   }
 ];
