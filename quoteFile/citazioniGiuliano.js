@@ -1,4 +1,4 @@
-return [
+exports.quoteGiuliano =  [
   /* { 
        citazione:"", 
        data:"",

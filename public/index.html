@@ -1,0 +1,84 @@
+<!-- index.html -->
+<!doctype html>
+
+<!-- ASSIGN OUR ANGULAR MODULE -->
+<html ng-app="quote">
+<head>
+
+	<meta charset="utf-8">
+
+	<title>Quote Js</title>
+
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"><!-- load bootstrap -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><!-- load jquery -->
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script><!-- load angular -->
+	
+	<script src="core.js"></script>
+	
+	<style type="text/css">
+		
+		blockquote {
+		  font-size: 20px ;
+		  border-left: none;
+		  margin: 1.5em 10px;
+		  padding: 0.5em 10px;
+		  quotes: "\201C""\201D""\2018""\2019";
+		}
+		blockquote:before {
+		  color: #ccc;
+		  content: open-quote;
+		  font-size: 4em;
+		  line-height: 0.1em;
+		  margin-right: 0.25em;
+		  vertical-align: -0.4em;
+		}
+		blockquote:after {
+		  color: #ccc;
+		  content: close-quote;
+		  font-size: 4em;
+		  line-height: 0.1em;
+		  margin-left: 0.25em;
+		  vertical-align: -0.4em;
+		}
+		blockquote p {
+		  display: inline;
+		}
+	</style>
+
+
+</head>
+
+<body ng-controller="mainController">
+
+	<div class="header">
+      <div class="container">
+        <h1>Quote js</h1>
+        <p>Quote js a simple way to cite your friend</p>
+      </div>
+    </div>
+
+    </br>
+	
+	<div class="container">
+		<div class="row">
+  			<div class="col-md-3 col-sm-3">
+  				<img src="http://stamplay.com/images/Alessandro.jpg" class="img-circle img-responsive">
+  			</div>
+			<div class="col-md-8 col-sm-8">
+				
+				<blockquote>
+  					<p>{{quote.citazione}}</p>
+				</blockquote>
+				
+				<div style="margin-left:40px;">
+					<small>
+						<p>{{quote.description}}</p>
+						<p>{{quote.data}}</p>
+					</small>
+				</div>
+
+  			</div>
+		</div>
+	</div>
+</body>
+</html>

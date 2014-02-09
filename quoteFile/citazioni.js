@@ -1,4 +1,5 @@
-return [
+
+exports.quote =[
   /* { 
        citazione:"", 
        data:"",
@@ -35,7 +36,7 @@ return [
     data: "Jan 24 2014 09:13:35 GMT+0100 (CET)"
   },{
     citazione:"Così parlo Zaratustra",
-    description:"Riferendosi a Giuliano say di Carlos e SeedCamp company",
+    description:"Riferendosi al 'Giuliano say' detto da Carlos e SeedCamp company",
     data: "Jan 24 2014 15:35:35 GMT+0100 (CET)"
   },{
     citazione:"Hai mai visto Superman fermarsi davanti a qualcosa??",
@@ -43,7 +44,7 @@ return [
     data: "Jan 24 2014 16:44:35 GMT+0100 (CET)"
   },{
     citazione:"Noam Chomsky è uno che ha avuto fortuna nella vita",
-    description:"Riferendosi Noam Chomsky",
+    description:"Riferendosi a Noam Chomsky",
     data: "Jan 24 2014 18:02:35 GMT+0100 (CET)"
   },{
     citazione:"Non fate gli stronzi",

@@ -1,4 +1,4 @@
-return [
+exports.citazioniGuest =  [
   /* { 
        citazione:"", 
        data:"",
