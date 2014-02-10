@@ -1,4 +1,3 @@
-
 exports.quote =[
   /* { 
        citazione:"", 
@@ -70,5 +69,9 @@ exports.quote =[
     citazione:"Il pesce puzza dalla testa",
     description:"Riferendosi a Giuliano, capo progetto",
     data: "Feb 7 2014 18:02:47 GMT+0100 (CET)"
+  },{
+    citazione:"Lascio l'evento perchè è simpatico",
+    description:"Riferendosi alla gestione degli eventi su UserSchema",
+    data: "Feb 10 2014 14:57:47 GMT+0100 (CET)"
   }
 ];
