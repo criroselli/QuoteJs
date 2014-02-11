@@ -21,6 +21,10 @@ exports.quoteGiuliano =  [
     citazione:"Avas come Lavas",
     description:"Riferendosi alla società Avas ed alla simpatica pubblicità 'ava come lava' ",
     data: "Feb 06 2014 18:06:05 GMT+0100 (CET)"
+  },{ 
+    citazione:"Guarda nel DOM",
+    description:"Riferendosi al convertible pixel di facebook",
+    data: "Feb 11 2014 11:22:05 GMT+0100 (CET)"
   }
   
   
