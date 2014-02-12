@@ -73,5 +73,9 @@ exports.quote =[
     citazione:"Lascio l'evento perchè è simpatico",
     description:"Riferendosi alla gestione degli eventi su UserSchema",
     data: "Feb 10 2014 14:57:47 GMT+0100 (CET)"
+  },{
+    citazione:"Guarda che fa Sandro",
+    description:"Riferendosi ad un numero raro eseguito sul codice",
+    data: "Feb 11 2014 18:10:47 GMT+0100 (CET)"
   }
 ];
