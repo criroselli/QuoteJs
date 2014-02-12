@@ -16,5 +16,10 @@ exports.citazioniGuest =  [
     description:"Riferendosi al testo in un div",
     guest: "Mirko di Serafino"
     data: "Feb 10 2014 18:02:47 GMT+0100 (CET)"
+  },{
+    citazione:"Ti posso verticalizzare la finestra",
+    description:"Riferendosi all'apertura della finestra basistas",
+    guest: "CLaudio Petrini"
+    data: "Feb 12 2014 15:02:47 GMT+0100 (CET)"
   }
 ];
