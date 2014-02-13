@@ -77,5 +77,9 @@ exports.quote =[
     citazione:"Guarda che fa Sandro",
     description:"Riferendosi ad un numero raro eseguito sul codice",
     data: "Feb 11 2014 18:10:47 GMT+0100 (CET)"
+  },{
+    citazione:"In Africa i documenti li fanno a matita",
+    description:"Riferendosi all'età di un giocatore africano dellla Lazio",
+    data: "Feb 13 2014 14:05:47 GMT+0100 (CET)"
   }
 ];
