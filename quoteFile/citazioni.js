@@ -81,5 +81,9 @@ exports.quote =[
     citazione:"In Africa i documenti li fanno a matita",
     description:"Riferendosi all'età di un giocatore africano della Lazio",
     data: "Feb 13 2014 14:05:47 GMT+0100 (CET)"
+  },{
+    citazione:"Così allunghi l'agonia non trovi la cura",
+    description:"Riferendosi all'allungare di wait di require",
+    data: "Feb 13 2014 15:29:47 GMT+0100 (CET)"
   }
 ];
