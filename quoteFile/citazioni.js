@@ -85,5 +85,9 @@ exports.quote =[
     citazione:"Così allunghi l'agonia non trovi la cura",
     description:"Riferendosi all'allungare di wait di require",
     data: "Feb 13 2014 15:29:47 GMT+0100 (CET)"
+  },{
+    citazione:"Dimmi il Pantheon non la rotonda",
+    description:"Riferendosi all'andamento della campagna di facebook",
+    data: "Feb 14 2014 10:17:47 GMT+0100 (CET)"
   }
 ];
