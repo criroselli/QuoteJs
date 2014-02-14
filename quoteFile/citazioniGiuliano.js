@@ -25,7 +25,9 @@ exports.quoteGiuliano =  [
     citazione:"Guarda nel DOM",
     description:"Riferendosi al convertible pixel di facebook",
     data: "Feb 11 2014 11:22:05 GMT+0100 (CET)"
+  },{ 
+    citazione:"E di questo hai fatto il bruttify",
+    description:"Riferendosi al file uglifizzato da Mirko",
+    data: "Fri Feb 14 2014 17:13:06 GMT+0100 (CET)"
   }
-  
-  
 ];
