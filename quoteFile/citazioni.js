@@ -89,5 +89,9 @@ exports.quote =[
     citazione:"Dimmi il Pantheon non la rotonda",
     description:"Riferendosi all'andamento della campagna di facebook",
     data: "Feb 14 2014 10:17:47 GMT+0100 (CET)"
+  },{
+    citazione:"Il sabato escono anche le bestie",
+    description:"Riferendosi al sabato sera a Roma",
+    data: "Feb 18 2014 17:11:47 GMT+0100 (CET)"
   }
 ];
