@@ -19,7 +19,12 @@ exports.citazioniGuest =  [
   },{
     citazione:"Ti posso verticalizzare la finestra",
     description:"Riferendosi all'apertura della finestra basistas",
-    guest: "CLaudio Petrini"
+    guest: "Claudio Petrini"
     data: "Feb 12 2014 15:02:47 GMT+0100 (CET)"
+  },{
+    citazione:"Ho visto lontano perchè ho cavalcato le spalle dei giganti",
+    description:"Riferendosi al prendere spunto dell'editor",
+    guest: "Enzo Augieri"
+    data: "Feb 21 2014 15:34:47 GMT+0100 (CET)"
   }
 ];
