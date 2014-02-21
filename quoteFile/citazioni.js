@@ -97,5 +97,9 @@ exports.quote =[
     citazione:"Non mi fate mancare Giuliano",
     description:"Riferendosi a due battute tristi dette da Cristian e Mirko",
     data: "Feb 19 2014 09:15:47 GMT+0100 (CET)"
+  },{
+    citazione:"Se era facile lo avrebbe fatto lui",
+    description:"Riferendosia delle codice scritto da Giuliano in Stamplay-cli",
+    data: "Feb 21 2014 12:47:47 GMT+0100 (CET)"
   }
 ];
