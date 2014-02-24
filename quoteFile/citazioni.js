@@ -94,7 +94,7 @@ exports.quote =[
     description:"Riferendosi al sabato sera a Roma",
     data: "Feb 18 2014 17:11:47 GMT+0100 (CET)"
   },{
-    citazione:"Non mi fate mancare Giuliano",
+    citazione:"Non mi fate sentire la mancanza di Giuliano",
     description:"Riferendosi a due battute tristi dette da Cristian e Mirko",
     data: "Feb 19 2014 09:15:47 GMT+0100 (CET)"
   },{
