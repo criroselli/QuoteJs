@@ -29,10 +29,13 @@ exports.quoteGiuliano =  [
     citazione:"E di questo hai fatto il bruttify",
     description:"Riferendosi al file uglifizzato da Mirko",
     data: "Fri Feb 14 2014 17:13:06 GMT+0100 (CET)"
-  },
-  { 
+  },{ 
     citazione:"A meno che non trovi un modo che te li fa starrare",
     description:"Riferendosi all'aggiunta di un bookmark",
     data: "Mon Feb 24 2014 15:14:51 GMT+0100 (CET)"
+  },{ 
+    citazione:"Chi è pianga del suo mal",
+    description:"Riferendosi ai test di Fbinsight",
+    data: "Mon Feb 24 2014 15:56:51 GMT+0100 (CET)"
   },
 ];
