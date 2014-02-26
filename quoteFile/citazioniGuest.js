@@ -26,5 +26,10 @@ exports.citazioniGuest =  [
     description:"Riferendosi al prendere spunto dell'editor",
     guest: "Enzo Augieri"
     data: "Feb 21 2014 15:34:47 GMT+0100 (CET)"
+  },{
+    citazione:"Npm cache clear mi ha distrutto la vita",
+    description:"Riferendosi alla lentezza di npm cache clear",
+    guest: "Claudio Petrini"
+    data: "Feb 26 2014 18:02:47 GMT+0100 (CET)"
   }
 ];
