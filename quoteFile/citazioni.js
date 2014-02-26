@@ -1,10 +1,4 @@
 exports.quote =[
-  /* { 
-       citazione:"", 
-       data:"",
-       description:""
-    }
-  */  
   { 
     citazione:"Serve un anello per dominarli tutti",
     description:"Rifertendosi ad un BUG",
@@ -82,7 +76,7 @@ exports.quote =[
     description:"Riferendosi all'età di un giocatore africano della Lazio",
     data: "Feb 13 2014 14:05:47 GMT+0100 (CET)"
   },{
-    citazione:"Così allunghi l'agonia non trovi la cura",
+    citazione:"Così allunghi l'agonia, non trovi la cura",
     description:"Riferendosi all'allungare di wait di require",
     data: "Feb 13 2014 15:29:47 GMT+0100 (CET)"
   },{
@@ -99,7 +93,11 @@ exports.quote =[
     data: "Feb 19 2014 09:15:47 GMT+0100 (CET)"
   },{
     citazione:"Se era facile lo avrebbe fatto lui",
-    description:"Riferendosia delle codice scritto da Giuliano in Stamplay-cli",
+    description:"Riferendosi a delle codice scritto da Giuliano in Stamplay-cli",
     data: "Feb 21 2014 12:47:47 GMT+0100 (CET)"
+  },{
+    citazione:"Ho provato con il fioretto ma tocca usà la sciabola",
+    description:"Riferendosi alla risoluzione di un problema utilizzando un colpo di fino",
+    data: "Feb 26 2014 13:00:47 GMT+0100 (CET)"
   }
 ];
