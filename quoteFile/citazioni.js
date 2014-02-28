@@ -99,5 +99,9 @@ exports.quote =[
     citazione:"Ho provato con il fioretto ma tocca usà la sciabola",
     description:"Riferendosi alla risoluzione di un problema utilizzando un colpo di fino",
     data: "Feb 26 2014 13:00:47 GMT+0100 (CET)"
+  },{
+    citazione:"L'ingrediente segreto della nonna è la passione",
+    description:"Riferendosi alla qualità del cibo della nonna",
+    data: "Feb 28 2014 11:48:47 GMT+0100 (CET)"
   }
 ];
