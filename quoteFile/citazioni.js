@@ -103,5 +103,9 @@ exports.quote =[
     citazione:"L'ingrediente segreto della nonna è la passione",
     description:"Riferendosi alla qualità del cibo della nonna",
     data: "Feb 28 2014 11:48:47 GMT+0100 (CET)"
+  },{
+    citazione:"Troppi galli a cantà non se fa mai giorno",
+    description:"Riferendosi alle specifiche dell'editor",
+    data: "Mar 04 2014 13:00:00 GMT+0100 (CET)"
   }
 ];
