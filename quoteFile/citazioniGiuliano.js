@@ -37,5 +37,9 @@ exports.quoteGiuliano =  [
     citazione:"Chi è pianga del suo mal",
     description:"Riferendosi ai test di Fbinsight",
     data: "Mon Feb 24 2014 15:56:51 GMT+0100 (CET)"
+  },{ 
+    citazione:"Il congiuntivo congiunzione",
+    description:"Riferendosi all'uso poco ortodosso della lingua italiana",
+    data: "Thu Sep 18 2014 09:56:54 GMT+0200 (CEST)"
   },
 ];
