@@ -41,5 +41,9 @@ exports.quoteGiuliano =  [
     citazione:"Il congiuntivo congiunzione",
     description:"Riferendosi all'uso poco ortodosso della lingua italiana",
     data: "Thu Sep 18 2014 09:56:54 GMT+0200 (CEST)"
+  },{ 
+    citazione:"Se avessi potuto studiare Mozart adesso sarei stato Mozart",
+    description:"Riferendosi alla musica mentre ascolta DeadMau5",
+    data: "Wed Oct 08 2014 13:37:54 GMT+0200 (CEST)"
   },
 ];
